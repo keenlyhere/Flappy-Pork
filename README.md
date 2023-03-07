@@ -17,7 +17,7 @@ Flappy Pork is a clone of thep opular game Flappy Bird, where the player control
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ## 🎮 **Gameplay Demo**:
-![Gameplay-demo](https://keenlychung.com/flappy-pork/FlappyPorkDemo.gif)
+![Gameplay-demo](https://keenlychung.com/flappy-pork/FlappyPorkDemo2.gif)
 
 ## 🕹️ **Instructions**
 - Press spacebar or left click on mouse to flap porky
