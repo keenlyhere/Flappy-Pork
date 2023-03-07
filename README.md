@@ -4,7 +4,7 @@
 
 Flappy Pork is a clone of the popular game Flappy Bird, where the player controls a flying pig and must navigate it through a series of stars without touching them.
 
-[Click to view Daily Moo'd Live](https://keenlychung.com/flappy-pork)
+[Click to play Flappy Pork Live](https://keenlychung.com/flappy-pork)
 
 ## 💻 **Tech Stack**
 
